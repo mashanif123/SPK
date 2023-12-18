@@ -27,11 +27,11 @@ Implementasikan model yang sudah anda buat ke dalam web api dengan http method `
 
 INPUT:
 {
-    "harga": 1, 
-    "berat": 2, 
-    "rating": 3, 
-    "garansi": 4, 
-    "kecepatan_processor": 5
+    "harga": 5, 
+    "kualitas": 4, 
+    "aroma": 3, 
+    "kemasan": 2, 
+    "ulasan": 1
 }
 
 OUTPUT (diurutkan / sort dari yang terbesar ke yang terkecil):
